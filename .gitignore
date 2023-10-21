@@ -1,0 +1,41 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches and logs
+.cache/
+*.log
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+
+# Environment / virtual environment
+.env/
+venv/
+ENV/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Editor / IDE specific files
+.idea/
+.vscode/
+
+# PyCharm
+.idea
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints
+
+# Project-specific
+db.sqlite3

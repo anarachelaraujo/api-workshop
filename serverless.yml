@@ -1,0 +1,7 @@
+service: my-python-service
+provider:
+  name: aws
+  runtime: python3.11
+functions:
+  my-python-function:
+    handler: handler.apiWorkshop
